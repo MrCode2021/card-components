@@ -28,16 +28,17 @@ img {
 #heading {
     font-family: 'Lexend Deca', sans-serif;
     color: var(--White);
-    font-size: 36px;
     margin-bottom: 32px;
 }
 #heading span {
     color: var(--oft-violet);
+
 }
 .container {
     width: 80%;
     margin: 0 auto;
     padding-top: 13%;
+    
 }
 .main-components {
     background-color: var(--dark-desaturated-blue);
@@ -67,7 +68,7 @@ p {
 li {
     font-family: 'Lexend Deca', sans-serif;;
     float: left;
-    margin-right: 50px;
+    margin-right: 20px;
     text-transform: uppercase;
 
 }
